@@ -1,0 +1,7 @@
+date,description,amount,type,balance
+2025-01-01,UPI-Zomato,250,debit,12500
+2025-01-01,UPI-Amazon,1200,debit,11300
+2025-01-02,UPI-Salary,30000,credit,41300
+2025-01-03,UPI-Netflix,499,debit,40801
+2025-01-04,UPI-Flipkart,2200,debit,38601
+
